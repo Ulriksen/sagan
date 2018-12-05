@@ -1,3 +1,6 @@
+### 0.0.16
+* Updated Azure Document Client to 2.1.3
+
 ### 0.0.15
 * Use direct mode for connection policy
 
